@@ -3,7 +3,7 @@ from games import venopy
 from tools import minimarket
 
 def menu():
-  user_option = int(input(f"Menu Program:\n1. Games Venopy\n2. Minimarket\n3. Exit\nPlease Select: "))
+  user_option = int(input(f"Menu Program:\n1. Games Venopy\n2. Minimarket\n3. Exit\n\nPlease Select: "))
 
   if user_option == 1:
     venopy.start()
