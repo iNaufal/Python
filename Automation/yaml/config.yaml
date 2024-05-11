@@ -1,0 +1,16 @@
+employees:
+  - name: Venomilia
+    department: HR
+    projects:
+    - Automation
+    address:
+    - city: Jakarta
+    - street: 123 Main St
+  - name: Venomare
+    department: IT
+    projects:
+    - Automation
+    - Support
+    address:
+    - city: Cilegon
+    - street: 321 Main St
