@@ -1,6 +1,6 @@
 import numpy as np
 
-#vecotor
+#vector
 a = np.array([1,2,3,4])
 b = np.array([1.5, 2.5, 5, 6, 7])
 
